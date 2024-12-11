@@ -1,1 +1,2 @@
-# -Gesti-n-de-riesgos-tecnol-gicos
+# -Gestión-de-riesgos-tecnológicos
+La inteligencia artificial está transformando la ciberseguridad, mejorando la detección de amenazas y optimizando la defensa frente a ataques. Sin embargo, este avance requiere regulaciones claras y éticas para evitar su mal uso, como los ciberataques o la manipulación de información crítica. La cooperación internacional es clave para un desarrollo seguro y responsable de esta tecnología.
